@@ -31,7 +31,8 @@ Place the downloaded `res` folder in the project directory:
 ```
 HamOHOwnerMap/
 ├── main.py
-├── qml/
+├── parcel_mapper.py
+├── property_search.py
 ├── res/
 │   ├── hamilton_parcels_small.gpkg
 │   └── property_records.csv
