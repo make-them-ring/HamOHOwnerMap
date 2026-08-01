@@ -3,7 +3,7 @@
 Search Hamilton County, Ohio parcel data by owner or address and export parcel boundaries as KML.
 
 ## Installation
-Download the `res` folder from the data link below and place it in the project directory before running.
+Download the `res` folder from the [Data Files](#data-files) section below and place it in the project directory before running.
 
 ```bash
 git clone https://github.com/make-them-ring/HamOHOwnerMap.git
